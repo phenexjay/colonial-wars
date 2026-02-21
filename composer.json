@@ -1,0 +1,15 @@
+{
+    "name": "jens/jens",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jens Haberecht"
+        }
+    ],
+    "require": {}
+}
